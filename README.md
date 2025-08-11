@@ -55,5 +55,5 @@ The goal is to demonstrate **data modeling**, **DAX calculations**, and **dashbo
 
 ## 📫 Contact
 **Suraj Pandey**  
-📧 Email: *[your email here]*  
-🔗 [LinkedIn Profile](https://www.linkedin.com/)  
+📧 Email: Pandeysura013@gmail.com 
+🔗 [LinkedIn Profile]: www.linkedin.com/in/suraj-pandey-0b617a36b 
