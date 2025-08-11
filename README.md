@@ -45,8 +45,7 @@ The goal is to demonstrate **data modeling**, **DAX calculations**, and **dashbo
 ## 📥 How to Use
 1. Download `AdventureWorks.pbix` from the `report/` folder.
 2. Open with **Power BI Desktop**.
-3. If needed, download the Adventure Works sample dataset from  
-   [Microsoft Official Link](https://learn.microsoft.com/en-us/power-bi/sample-datasets).
+3. If needed, download the Adventure Works sample dataset 
 4. Refresh the data connection in Power BI.
 
 
